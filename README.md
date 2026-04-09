@@ -46,10 +46,3 @@ Infra         →  Linux, Docker, Cloudflare
 
 - 🌍 Site: [pixelmonbrasiloficial.com.br](https://pixelmonbrasiloficial.com.br)
 - 💬 Discord: [discord.gg/pxbr](https://discord.gg/pxbr)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homigalado&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homigalado&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
