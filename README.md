@@ -19,7 +19,7 @@
 
 Há mais de **5 anos** construindo o Pixelmon Brasil, de um servidor de Minecraft a uma marca multiplataforma com:
 
-- 🏆 **+1 milhão** de downloads na Playstore
+- 🏆 **+2 milhões** de downloads na Playstore
 - 🌐 Rede multi-servidor rodando SpongeForge 1.12.2 + Pixelmon Reforged
 - ⚙️ Ecossistema próprio de plugins
 - 💬 Comunidade ativa no Discord
